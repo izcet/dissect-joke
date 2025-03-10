@@ -1,0 +1,254 @@
+a          5
+b          6
+aa         5 6
+ab         5 7
+ba         6 6
+bb         6 7
+aaa        5 6 7
+aab        5 6 8
+aba        5 7 7
+abb        5 7 8
+baa        6 6 7
+bab        6 6 8
+bba        6 7 7
+bbb        6 7 8
+aaaa       5 6 7 8
+aaab       5 6 7 9
+aaba       5 6 8 8
+aabb       5 6 8 9
+abaa       5 7 7 8
+abab       5 7 7 9
+abba       5 7 8 8
+abbb       5 7 8 9
+baaa       6 6 7 8
+baab       6 6 7 9
+baba       6 6 8 8
+babb       6 6 8 9
+bbaa       6 7 7 8
+bbab       6 7 7 9
+bbba       6 7 8 8
+bbbb       6 7 8 9
+aaaaa      5 6 7 8 9
+aaaab      5 6 7 8 10
+aaaba      5 6 7 9 9
+aaabb      5 6 7 9 10
+aabaa      5 6 8 8 9
+aabab      5 6 8 8 10
+aabba      5 6 8 9 9
+aabbb      5 6 8 9 10
+abaaa      5 7 7 8 9
+abaab      5 7 7 8 10
+ababa      5 7 7 9 9
+ababb      5 7 7 9 10
+abbaa      5 7 8 8 9
+abbab      5 7 8 8 10
+abbba      5 7 8 9 9
+abbbb      5 7 8 9 10
+baaaa      6 6 7 8 9
+baaab      6 6 7 8 10
+baaba      6 6 7 9 9
+baabb      6 6 7 9 10
+babaa      6 6 8 8 9
+babab      6 6 8 8 10
+babba      6 6 8 9 9
+babbb      6 6 8 9 10
+bbaaa      6 7 7 8 9
+bbaab      6 7 7 8 10
+bbaba      6 7 7 9 9
+bbabb      6 7 7 9 10
+bbbaa      6 7 8 8 9
+bbbab      6 7 8 8 10
+bbbba      6 7 8 9 9
+bbbbb      6 7 8 9 10
+aaaaaa     5 6 7 8 9 10
+aaaaab     5 6 7 8 9 11
+aaaaba     5 6 7 8 10 10
+aaaabb     5 6 7 8 10 11
+aaabaa     5 6 7 9 9 10
+aaabab     5 6 7 9 9 11
+aaabba     5 6 7 9 10 10
+aaabbb     5 6 7 9 10 11
+aabaaa     5 6 8 8 9 10
+aabaab     5 6 8 8 9 11
+aababa     5 6 8 8 10 10
+aababb     5 6 8 8 10 11
+aabbaa     5 6 8 9 9 10
+aabbab     5 6 8 9 9 11
+aabbba     5 6 8 9 10 10
+aabbbb     5 6 8 9 10 11
+abaaaa     5 7 7 8 9 10
+abaaab     5 7 7 8 9 11
+abaaba     5 7 7 8 10 10
+abaabb     5 7 7 8 10 11
+ababaa     5 7 7 9 9 10
+ababab     5 7 7 9 9 11
+ababba     5 7 7 9 10 10
+ababbb     5 7 7 9 10 11
+abbaaa     5 7 8 8 9 10
+abbaab     5 7 8 8 9 11
+abbaba     5 7 8 8 10 10
+abbabb     5 7 8 8 10 11
+abbbaa     5 7 8 9 9 10
+abbbab     5 7 8 9 9 11
+abbbba     5 7 8 9 10 10
+abbbbb     5 7 8 9 10 11
+baaaaa     6 6 7 8 9 10
+baaaab     6 6 7 8 9 11
+baaaba     6 6 7 8 10 10
+baaabb     6 6 7 8 10 11
+baabaa     6 6 7 9 9 10
+baabab     6 6 7 9 9 11
+baabba     6 6 7 9 10 10
+baabbb     6 6 7 9 10 11
+babaaa     6 6 8 8 9 10
+babaab     6 6 8 8 9 11
+bababa     6 6 8 8 10 10
+bababb     6 6 8 8 10 11
+babbaa     6 6 8 9 9 10
+babbab     6 6 8 9 9 11
+babbba     6 6 8 9 10 10
+babbbb     6 6 8 9 10 11
+bbaaaa     6 7 7 8 9 10
+bbaaab     6 7 7 8 9 11
+bbaaba     6 7 7 8 10 10
+bbaabb     6 7 7 8 10 11
+bbabaa     6 7 7 9 9 10
+bbabab     6 7 7 9 9 11
+bbabba     6 7 7 9 10 10
+bbabbb     6 7 7 9 10 11
+bbbaaa     6 7 8 8 9 10
+bbbaab     6 7 8 8 9 11
+bbbaba     6 7 8 8 10 10
+bbbabb     6 7 8 8 10 11
+bbbbaa     6 7 8 9 9 10
+bbbbab     6 7 8 9 9 11
+bbbbba     6 7 8 9 10 10
+bbbbbb     6 7 8 9 10 11
+aaaaaaa    5 6 7 8 9 10 11
+aaaaaab    5 6 7 8 9 10 12
+aaaaaba    5 6 7 8 9 11 11
+aaaaabb    5 6 7 8 9 11 12
+aaaabaa    5 6 7 8 10 10 11
+aaaabab    5 6 7 8 10 10 12
+aaaabba    5 6 7 8 10 11 11
+aaaabbb    5 6 7 8 10 11 12
+aaabaaa    5 6 7 9 9 10 11
+aaabaab    5 6 7 9 9 10 12
+aaababa    5 6 7 9 9 11 11
+aaababb    5 6 7 9 9 11 12
+aaabbaa    5 6 7 9 10 10 11
+aaabbab    5 6 7 9 10 10 12
+aaabbba    5 6 7 9 10 11 11
+aaabbbb    5 6 7 9 10 11 12
+aabaaaa    5 6 8 8 9 10 11
+aabaaab    5 6 8 8 9 10 12
+aabaaba    5 6 8 8 9 11 11
+aabaabb    5 6 8 8 9 11 12
+aababaa    5 6 8 8 10 10 11
+aababab    5 6 8 8 10 10 12
+aababba    5 6 8 8 10 11 11
+aababbb    5 6 8 8 10 11 12
+aabbaaa    5 6 8 9 9 10 11
+aabbaab    5 6 8 9 9 10 12
+aabbaba    5 6 8 9 9 11 11
+aabbabb    5 6 8 9 9 11 12
+aabbbaa    5 6 8 9 10 10 11
+aabbbab    5 6 8 9 10 10 12
+aabbbba    5 6 8 9 10 11 11
+aabbbbb    5 6 8 9 10 11 12
+abaaaaa    5 7 7 8 9 10 11
+abaaaab    5 7 7 8 9 10 12
+abaaaba    5 7 7 8 9 11 11
+abaaabb    5 7 7 8 9 11 12
+abaabaa    5 7 7 8 10 10 11
+abaabab    5 7 7 8 10 10 12
+abaabba    5 7 7 8 10 11 11
+abaabbb    5 7 7 8 10 11 12
+ababaaa    5 7 7 9 9 10 11
+ababaab    5 7 7 9 9 10 12
+abababa    5 7 7 9 9 11 11
+abababb    5 7 7 9 9 11 12
+ababbaa    5 7 7 9 10 10 11
+ababbab    5 7 7 9 10 10 12
+ababbba    5 7 7 9 10 11 11
+ababbbb    5 7 7 9 10 11 12
+abbaaaa    5 7 8 8 9 10 11
+abbaaab    5 7 8 8 9 10 12
+abbaaba    5 7 8 8 9 11 11
+abbaabb    5 7 8 8 9 11 12
+abbabaa    5 7 8 8 10 10 11
+abbabab    5 7 8 8 10 10 12
+abbabba    5 7 8 8 10 11 11
+abbabbb    5 7 8 8 10 11 12
+abbbaaa    5 7 8 9 9 10 11
+abbbaab    5 7 8 9 9 10 12
+abbbaba    5 7 8 9 9 11 11
+abbbabb    5 7 8 9 9 11 12
+abbbbaa    5 7 8 9 10 10 11
+abbbbab    5 7 8 9 10 10 12
+abbbbba    5 7 8 9 10 11 11
+abbbbbb    5 7 8 9 10 11 12
+baaaaaa    6 6 7 8 9 10 11
+baaaaab    6 6 7 8 9 10 12
+baaaaba    6 6 7 8 9 11 11
+baaaabb    6 6 7 8 9 11 12
+baaabaa    6 6 7 8 10 10 11
+baaabab    6 6 7 8 10 10 12
+baaabba    6 6 7 8 10 11 11
+baaabbb    6 6 7 8 10 11 12
+baabaaa    6 6 7 9 9 10 11
+baabaab    6 6 7 9 9 10 12
+baababa    6 6 7 9 9 11 11
+baababb    6 6 7 9 9 11 12
+baabbaa    6 6 7 9 10 10 11
+baabbab    6 6 7 9 10 10 12
+baabbba    6 6 7 9 10 11 11
+baabbbb    6 6 7 9 10 11 12
+babaaaa    6 6 8 8 9 10 11
+babaaab    6 6 8 8 9 10 12
+babaaba    6 6 8 8 9 11 11
+babaabb    6 6 8 8 9 11 12
+bababaa    6 6 8 8 10 10 11
+bababab    6 6 8 8 10 10 12
+bababba    6 6 8 8 10 11 11
+bababbb    6 6 8 8 10 11 12
+babbaaa    6 6 8 9 9 10 11
+babbaab    6 6 8 9 9 10 12
+babbaba    6 6 8 9 9 11 11
+babbabb    6 6 8 9 9 11 12
+babbbaa    6 6 8 9 10 10 11
+babbbab    6 6 8 9 10 10 12
+babbbba    6 6 8 9 10 11 11
+babbbbb    6 6 8 9 10 11 12
+bbaaaaa    6 7 7 8 9 10 11
+bbaaaab    6 7 7 8 9 10 12
+bbaaaba    6 7 7 8 9 11 11
+bbaaabb    6 7 7 8 9 11 12
+bbaabaa    6 7 7 8 10 10 11
+bbaabab    6 7 7 8 10 10 12
+bbaabba    6 7 7 8 10 11 11
+bbaabbb    6 7 7 8 10 11 12
+bbabaaa    6 7 7 9 9 10 11
+bbabaab    6 7 7 9 9 10 12
+bbababa    6 7 7 9 9 11 11
+bbababb    6 7 7 9 9 11 12
+bbabbaa    6 7 7 9 10 10 11
+bbabbab    6 7 7 9 10 10 12
+bbabbba    6 7 7 9 10 11 11
+bbabbbb    6 7 7 9 10 11 12
+bbbaaaa    6 7 8 8 9 10 11
+bbbaaab    6 7 8 8 9 10 12
+bbbaaba    6 7 8 8 9 11 11
+bbbaabb    6 7 8 8 9 11 12
+bbbabaa    6 7 8 8 10 10 11
+bbbabab    6 7 8 8 10 10 12
+bbbabba    6 7 8 8 10 11 11
+bbbabbb    6 7 8 8 10 11 12
+bbbbaaa    6 7 8 9 9 10 11
+bbbbaab    6 7 8 9 9 10 12
+bbbbaba    6 7 8 9 9 11 11
+bbbbabb    6 7 8 9 9 11 12
+bbbbbaa    6 7 8 9 10 10 11
+bbbbbab    6 7 8 9 10 10 12
+bbbbbba    6 7 8 9 10 11 11
+bbbbbbb    6 7 8 9 10 11 12

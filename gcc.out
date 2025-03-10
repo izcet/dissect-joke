@@ -1,0 +1,254 @@
+a          5
+b          6
+aa         6 5
+ab         6 7
+ba         7 5
+bb         7 7
+aaa        7 6 5
+aab        7 6 8
+aba        7 8 5
+abb        7 8 8
+baa        8 6 5
+bab        8 6 8
+bba        8 8 5
+bbb        8 8 8
+aaaa       8 7 6 5
+aaab       8 7 6 9
+aaba       8 7 9 5
+aabb       8 7 9 9
+abaa       8 9 6 5
+abab       8 9 6 9
+abba       8 9 9 5
+abbb       8 9 9 9
+baaa       9 7 6 5
+baab       9 7 6 9
+baba       9 7 9 5
+babb       9 7 9 9
+bbaa       9 9 6 5
+bbab       9 9 6 9
+bbba       9 9 9 5
+bbbb       9 9 9 9
+aaaaa      9 8 7 6 5
+aaaab      9 8 7 6 10
+aaaba      9 8 7 10 5
+aaabb      9 8 7 10 10
+aabaa      9 8 10 6 5
+aabab      9 8 10 6 10
+aabba      9 8 10 10 5
+aabbb      9 8 10 10 10
+abaaa      9 10 7 6 5
+abaab      9 10 7 6 10
+ababa      9 10 7 10 5
+ababb      9 10 7 10 10
+abbaa      9 10 10 6 5
+abbab      9 10 10 6 10
+abbba      9 10 10 10 5
+abbbb      9 10 10 10 10
+baaaa      10 8 7 6 5
+baaab      10 8 7 6 10
+baaba      10 8 7 10 5
+baabb      10 8 7 10 10
+babaa      10 8 10 6 5
+babab      10 8 10 6 10
+babba      10 8 10 10 5
+babbb      10 8 10 10 10
+bbaaa      10 10 7 6 5
+bbaab      10 10 7 6 10
+bbaba      10 10 7 10 5
+bbabb      10 10 7 10 10
+bbbaa      10 10 10 6 5
+bbbab      10 10 10 6 10
+bbbba      10 10 10 10 5
+bbbbb      10 10 10 10 10
+aaaaaa     10 9 8 7 6 5
+aaaaab     10 9 8 7 6 11
+aaaaba     10 9 8 7 11 5
+aaaabb     10 9 8 7 11 11
+aaabaa     10 9 8 11 6 5
+aaabab     10 9 8 11 6 11
+aaabba     10 9 8 11 11 5
+aaabbb     10 9 8 11 11 11
+aabaaa     10 9 11 7 6 5
+aabaab     10 9 11 7 6 11
+aababa     10 9 11 7 11 5
+aababb     10 9 11 7 11 11
+aabbaa     10 9 11 11 6 5
+aabbab     10 9 11 11 6 11
+aabbba     10 9 11 11 11 5
+aabbbb     10 9 11 11 11 11
+abaaaa     10 11 8 7 6 5
+abaaab     10 11 8 7 6 11
+abaaba     10 11 8 7 11 5
+abaabb     10 11 8 7 11 11
+ababaa     10 11 8 11 6 5
+ababab     10 11 8 11 6 11
+ababba     10 11 8 11 11 5
+ababbb     10 11 8 11 11 11
+abbaaa     10 11 11 7 6 5
+abbaab     10 11 11 7 6 11
+abbaba     10 11 11 7 11 5
+abbabb     10 11 11 7 11 11
+abbbaa     10 11 11 11 6 5
+abbbab     10 11 11 11 6 11
+abbbba     10 11 11 11 11 5
+abbbbb     10 11 11 11 11 11
+baaaaa     11 9 8 7 6 5
+baaaab     11 9 8 7 6 11
+baaaba     11 9 8 7 11 5
+baaabb     11 9 8 7 11 11
+baabaa     11 9 8 11 6 5
+baabab     11 9 8 11 6 11
+baabba     11 9 8 11 11 5
+baabbb     11 9 8 11 11 11
+babaaa     11 9 11 7 6 5
+babaab     11 9 11 7 6 11
+bababa     11 9 11 7 11 5
+bababb     11 9 11 7 11 11
+babbaa     11 9 11 11 6 5
+babbab     11 9 11 11 6 11
+babbba     11 9 11 11 11 5
+babbbb     11 9 11 11 11 11
+bbaaaa     11 11 8 7 6 5
+bbaaab     11 11 8 7 6 11
+bbaaba     11 11 8 7 11 5
+bbaabb     11 11 8 7 11 11
+bbabaa     11 11 8 11 6 5
+bbabab     11 11 8 11 6 11
+bbabba     11 11 8 11 11 5
+bbabbb     11 11 8 11 11 11
+bbbaaa     11 11 11 7 6 5
+bbbaab     11 11 11 7 6 11
+bbbaba     11 11 11 7 11 5
+bbbabb     11 11 11 7 11 11
+bbbbaa     11 11 11 11 6 5
+bbbbab     11 11 11 11 6 11
+bbbbba     11 11 11 11 11 5
+bbbbbb     11 11 11 11 11 11
+aaaaaaa    11 10 9 8 7 6 5
+aaaaaab    11 10 9 8 7 6 12
+aaaaaba    11 10 9 8 7 12 5
+aaaaabb    11 10 9 8 7 12 12
+aaaabaa    11 10 9 8 12 6 5
+aaaabab    11 10 9 8 12 6 12
+aaaabba    11 10 9 8 12 12 5
+aaaabbb    11 10 9 8 12 12 12
+aaabaaa    11 10 9 12 7 6 5
+aaabaab    11 10 9 12 7 6 12
+aaababa    11 10 9 12 7 12 5
+aaababb    11 10 9 12 7 12 12
+aaabbaa    11 10 9 12 12 6 5
+aaabbab    11 10 9 12 12 6 12
+aaabbba    11 10 9 12 12 12 5
+aaabbbb    11 10 9 12 12 12 12
+aabaaaa    11 10 12 8 7 6 5
+aabaaab    11 10 12 8 7 6 12
+aabaaba    11 10 12 8 7 12 5
+aabaabb    11 10 12 8 7 12 12
+aababaa    11 10 12 8 12 6 5
+aababab    11 10 12 8 12 6 12
+aababba    11 10 12 8 12 12 5
+aababbb    11 10 12 8 12 12 12
+aabbaaa    11 10 12 12 7 6 5
+aabbaab    11 10 12 12 7 6 12
+aabbaba    11 10 12 12 7 12 5
+aabbabb    11 10 12 12 7 12 12
+aabbbaa    11 10 12 12 12 6 5
+aabbbab    11 10 12 12 12 6 12
+aabbbba    11 10 12 12 12 12 5
+aabbbbb    11 10 12 12 12 12 12
+abaaaaa    11 12 9 8 7 6 5
+abaaaab    11 12 9 8 7 6 12
+abaaaba    11 12 9 8 7 12 5
+abaaabb    11 12 9 8 7 12 12
+abaabaa    11 12 9 8 12 6 5
+abaabab    11 12 9 8 12 6 12
+abaabba    11 12 9 8 12 12 5
+abaabbb    11 12 9 8 12 12 12
+ababaaa    11 12 9 12 7 6 5
+ababaab    11 12 9 12 7 6 12
+abababa    11 12 9 12 7 12 5
+abababb    11 12 9 12 7 12 12
+ababbaa    11 12 9 12 12 6 5
+ababbab    11 12 9 12 12 6 12
+ababbba    11 12 9 12 12 12 5
+ababbbb    11 12 9 12 12 12 12
+abbaaaa    11 12 12 8 7 6 5
+abbaaab    11 12 12 8 7 6 12
+abbaaba    11 12 12 8 7 12 5
+abbaabb    11 12 12 8 7 12 12
+abbabaa    11 12 12 8 12 6 5
+abbabab    11 12 12 8 12 6 12
+abbabba    11 12 12 8 12 12 5
+abbabbb    11 12 12 8 12 12 12
+abbbaaa    11 12 12 12 7 6 5
+abbbaab    11 12 12 12 7 6 12
+abbbaba    11 12 12 12 7 12 5
+abbbabb    11 12 12 12 7 12 12
+abbbbaa    11 12 12 12 12 6 5
+abbbbab    11 12 12 12 12 6 12
+abbbbba    11 12 12 12 12 12 5
+abbbbbb    11 12 12 12 12 12 12
+baaaaaa    12 10 9 8 7 6 5
+baaaaab    12 10 9 8 7 6 12
+baaaaba    12 10 9 8 7 12 5
+baaaabb    12 10 9 8 7 12 12
+baaabaa    12 10 9 8 12 6 5
+baaabab    12 10 9 8 12 6 12
+baaabba    12 10 9 8 12 12 5
+baaabbb    12 10 9 8 12 12 12
+baabaaa    12 10 9 12 7 6 5
+baabaab    12 10 9 12 7 6 12
+baababa    12 10 9 12 7 12 5
+baababb    12 10 9 12 7 12 12
+baabbaa    12 10 9 12 12 6 5
+baabbab    12 10 9 12 12 6 12
+baabbba    12 10 9 12 12 12 5
+baabbbb    12 10 9 12 12 12 12
+babaaaa    12 10 12 8 7 6 5
+babaaab    12 10 12 8 7 6 12
+babaaba    12 10 12 8 7 12 5
+babaabb    12 10 12 8 7 12 12
+bababaa    12 10 12 8 12 6 5
+bababab    12 10 12 8 12 6 12
+bababba    12 10 12 8 12 12 5
+bababbb    12 10 12 8 12 12 12
+babbaaa    12 10 12 12 7 6 5
+babbaab    12 10 12 12 7 6 12
+babbaba    12 10 12 12 7 12 5
+babbabb    12 10 12 12 7 12 12
+babbbaa    12 10 12 12 12 6 5
+babbbab    12 10 12 12 12 6 12
+babbbba    12 10 12 12 12 12 5
+babbbbb    12 10 12 12 12 12 12
+bbaaaaa    12 12 9 8 7 6 5
+bbaaaab    12 12 9 8 7 6 12
+bbaaaba    12 12 9 8 7 12 5
+bbaaabb    12 12 9 8 7 12 12
+bbaabaa    12 12 9 8 12 6 5
+bbaabab    12 12 9 8 12 6 12
+bbaabba    12 12 9 8 12 12 5
+bbaabbb    12 12 9 8 12 12 12
+bbabaaa    12 12 9 12 7 6 5
+bbabaab    12 12 9 12 7 6 12
+bbababa    12 12 9 12 7 12 5
+bbababb    12 12 9 12 7 12 12
+bbabbaa    12 12 9 12 12 6 5
+bbabbab    12 12 9 12 12 6 12
+bbabbba    12 12 9 12 12 12 5
+bbabbbb    12 12 9 12 12 12 12
+bbbaaaa    12 12 12 8 7 6 5
+bbbaaab    12 12 12 8 7 6 12
+bbbaaba    12 12 12 8 7 12 5
+bbbaabb    12 12 12 8 7 12 12
+bbbabaa    12 12 12 8 12 6 5
+bbbabab    12 12 12 8 12 6 12
+bbbabba    12 12 12 8 12 12 5
+bbbabbb    12 12 12 8 12 12 12
+bbbbaaa    12 12 12 12 7 6 5
+bbbbaab    12 12 12 12 7 6 12
+bbbbaba    12 12 12 12 7 12 5
+bbbbabb    12 12 12 12 7 12 12
+bbbbbaa    12 12 12 12 12 6 5
+bbbbbab    12 12 12 12 12 6 12
+bbbbbba    12 12 12 12 12 12 5
+bbbbbbb    12 12 12 12 12 12 12
