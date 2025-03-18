@@ -1,6 +1,6 @@
 ### Dissecting joke.c
-_Explaining a joke is like dissecting a frog. You understand it better but the frog dies in the process."
-- E.B White_
+_Explaining a joke is like dissecting a frog. You understand it better but the frog dies in the process."_
+-- E.B. White
 
 A bit ago I came across this code snippet distributed in the file `joke.c`:
 ```
