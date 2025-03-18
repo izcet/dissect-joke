@@ -2,15 +2,14 @@
 
 # a b aa ab ba bb aaa [...] bbbbbba bbbbbbb
 BABBLE="$(\
-  FOO="" ; \
+  RANGE="" ; \
   for i in {1..7} ; do \
-    FOO="$FOO"'{a..b}' ; \
-    BAR={,$FOO}; \
-    bash -c 'echo "echo '$BAR'"' | bash ; \
+    RANGE="$RANGE"'{a..b}' ; \
+    NESTED={,$RANGE}; \
+    bash -c 'echo "echo '$NESTED'"' | bash ; \
   done)"
 
 mkdir -p "out"
-
 
 for I in $BABBLE ; do 
   DIR="out/$I"
@@ -19,8 +18,6 @@ for I in $BABBLE ; do
   echo "    \"$I\n\"," | sed 's/[ab]/%d /g' >> "$DIR/$I.c"
   echo "    $I" | sed 's/a/x++, /g' | sed 's/b/++x, /g' | sed 's/, $//' >> "$DIR/$I.c"
   echo -e "  );\n  return 0;\n}\n" >> "$DIR/$I.c"
-
-  #cat "$DIR/$I.c"
 
   gcc "$DIR/$I.c" -o "$DIR/gcc-$I.bin" 2> /dev/null
   clang "$DIR/$I.c" -o "$DIR/clang-$I.bin" 2> /dev/null
